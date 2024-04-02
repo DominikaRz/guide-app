@@ -1,0 +1,182 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Town market monuments",
+            "time": "11 min",
+            "distance": "900 m",
+            "coordinates": [
+                {
+                    "latitude": 51.20934572009916, 
+                    "longitude": 17.37656995143814
+                },
+                {
+                    "latitude": 51.2099506390202,  
+                    "longitude": 17.37807198849585
+                },
+                {
+                    "latitude":  51.209792688747726, 
+                    "longitude": 17.37977250900053
+                },
+                {
+                    "latitude":  51.21098570409206, 
+                    "longitude": 17.37850114191981
+                },
+                {
+                    "latitude":  51.210847920794585, 
+                    "longitude": 17.379659856241076
+                },
+                {
+                    "latitude":  51.21108652087549, 
+                    "longitude": 17.379332626732857
+                },
+                {
+                    "latitude":  51.21120414017498,
+                    "longitude": 17.379477466020568
+                },
+                {
+                    "latitude":  51.21133184078593, 
+                    "longitude": 17.38115116445407
+                }
+            ],
+            "url": "https://www.google.com/maps/dir/Zamek+Ksi%C4%85%C5%BC%C4%85t+Ole%C5%9Bnickich/Bazylika+Mniejsza+pw.+%C5%9Bw.+Jana%E2%80%A6/Urz%C4%85d+Miasta+Ole%C5%9Bnicy/Ko%C5%9Bci%C3%B3%C5%82+Zielono%C5%9Bwi%C4%85tkowy/Ko%C5%9Bci%C3%B3%C5%82+Rzymskokatolicki+Pw%E2%80%A6/Ko%C5%9Bci%C3%B3%C5%82+katolicki+pw.+Tr%C3%B3jcy+%C5%9Awi%C4%99tej/Parafia+%C5%9Aw.+Jana+Aposto%C5%82a+i+Ewangelisty/Pa%C5%84stwowa+Szko%C5%82a+Muzyczna+I+stopnia+im%E2%80%A6/@51.210569,17.3794158,18z/data=!4m50!4m49!1m5!1m1!1s0x470fe2e03c8ce7d3:0x633d06094cf83356!2m2!1d17.3765323!2d51.2091583!1m5!1m1!1s0x470fe2e06cf04dd3:0xe8a24f6c53a5905e!2m2!1d17.3781066!2d51.2096968!1m5!1m1!1s0x470fe2e07d3bbaa1:0xe339f93305949af8!2m2!1d17.3797711!2d51.2097342!1m5!1m1!1s0x470fe2dfe6392415:0x4b6d1d73ae645363!2m2!1d17.3785244!2d51.2109499!1m5!1m1!1s0x470fe2dfc553cb59:0x29511cc7bddc0cd4!2m2!1d17.3796599!2d51.2107985!1m5!1m1!1s0x470fe2dfc30f23ed:0x345012fffec81f5a!2m2!1d17.3793395!2d51.2110192!1m5!1m1!1s0x470fe2dfc366c0d7:0xa260bda5de8abfed!2m2!1d17.3794618!2d51.2111508!1m5!1m1!1s0x470fe2dfb556c619:0xaceba32aa756f15e!2m2!1d17.3811635!2d51.2112809!3e2?entry=ttu",
+            "description": "As you explore the market square in Oleśnica, you'll encounter several remarkable architectural gems. The magnificent castle stands proudly, showcasing its rich history and grandeur. With origins dating back to the 14th century, the castle has undergone various transformations over time. Today, it captivates visitors with its impressive Renaissance and Baroque elements, providing a glimpse into the past.\nNearby, you'll find the basilica, an awe-inspiring religious sanctuary that dominates the skyline. This splendid Gothic structure boasts intricate detailing and soaring spires, creating a sense of reverence and tranquility. Step inside to admire its breathtaking interior, adorned with stunning stained glass windows and ornate decorations.\nA charming widow house catches the eye with its unique architectural style. This beautifully preserved building, with its half-timbered façade and decorative elements, showcases the local heritage. Immerse yourself in the history and stories that this house carries, evoking a sense of nostalgia.\nThe market square is also home to several churches, each with its own distinct character. These sacred places offer a glimpse into the spiritual heritage of Oleśnica. From the elegant Gothic church to the charming Baroque chapel, these religious landmarks hold great cultural and historical significance. Marvel at their architectural beauty and step inside to experience a serene atmosphere.\nAs you wander through the market square, these captivating landmarks provide a captivating journey through time, showcasing the rich history, cultural diversity, and architectural marvels of Oleśnica."
+        },
+        {
+            "id": 2,
+            "title": "Castle of the Dukes of Olesnica -> Ponds of Olesnica ",
+            "time": "1 h 28 min",
+            "distance": "7,2 km",
+            "coordinates": [
+                {
+                    "latitude": 51.20904118654189,
+                    "longitude": 17.376616717185023
+                },
+                {
+                    "latitude": 51.20858543267106, 
+                    "longitude": 17.370728418354297
+                },
+                {
+                    "latitude": 51.213364154553624, 
+                    "longitude": 17.373721763623813
+                },
+                {
+                    "latitude": 51.21629432099778, 
+                    "longitude": 17.37970845415456
+                },
+                {
+                    "latitude": 51.2174367665645, 
+                    "longitude": 17.387433216133026
+                },
+                {
+                    "latitude": 51.2195006943485, 
+                    "longitude": 17.392104112791223
+                },
+                {
+                    "latitude": 51.21953459869238, 
+                    "longitude": 17.392086069082048
+                },
+                {
+                    "latitude": 51.21804278402845, 
+                    "longitude": 17.401486826193885
+                },
+                {
+                    "latitude": 51.219297267812415, 
+                    "longitude": 17.401829656111232
+                },
+                {
+                    "latitude": 51.21865307770702,
+                    "longitude": 17.386167742196292
+                },
+                {
+                    "latitude": 51.216268365725185, 
+                    "longitude": 17.381981608538286
+                },
+                {
+                    "latitude": 51.21423391667127, 
+                    "longitude": 17.375179141334872
+                },
+                {
+                    "latitude": 51.21095600404733, 
+                    "longitude": 17.372689113543895
+                },
+                {
+                    "latitude": 51.20858219750999, 
+                    "longitude": 17.370722352474154
+                },
+                {
+                    "latitude": 51.20592564991644, 
+                    "longitude": 17.373302598670463
+                },
+                {
+                    "latitude": 51.20825437649868, 
+                    "longitude":  17.373861952740462
+                }
+            ],
+            "url": "https://www.google.com/maps/dir/51.2082294,17.3738641/51.2109398,17.3727279/51.2161687,17.3817828/51.2186351,17.3862146/51.2192653,17.4018203/51.217397,17.3873688/51.2155086,17.3828651/51.2059133,17.3732806/@51.2065474,17.3718681,16.25z/data=!4m30!4m29!1m0!1m0!1m0!1m0!1m10!3m4!1m2!1d17.4014583!2d51.2180268!3s0x470fe2cff4aa1bcb:0xa5a3fb8082126e33!3m4!1m2!1d17.3920996!2d51.2194854!3s0x470fe2da082f40d3:0x28a19ec8db03e23e!1m0!1m10!3m4!1m2!1d17.3751774!2d51.2142208!3s0x470fe320e3a14223:0x24354c39c62d7a23!3m4!1m2!1d17.3707485!2d51.2085888!3s0x470fe31f77156127:0x1fa683b8aa99ab92!1m0!3e2?entry=ttu",
+            "description": "Explore the captivating route that takes you from the majestic Castle of the Dukes of Oleśnica to the serene Ponds of Oleśnica. Embark on a journey through history and natural beauty as you traverse this carefully curated path. Begin your adventure at the impressive castle, a grand architectural masterpiece that has witnessed centuries of transformations. Marvel at its magnificent structure, including the cylindrical tower that proudly stands as a symbol of the castle's significance.\nFrom there, follow the route as it guides you towards the tranquil Ponds of Oleśnica. Immerse yourself in the serenity of these picturesque bodies of water, where nature flourishes in harmony. Take a leisurely stroll along the shores, breathe in the fresh air, and appreciate the scenic surroundings.\nAs you embark on this route, you will not only encounter historical landmarks but also embrace the natural wonders of Oleśnica. Let the Castle of the Dukes of Oleśnica and the Ponds of Oleśnica enchant you with their unique charm and leave you with lasting memories."
+        },
+        {
+            "id": 3,
+            "title": "Around the Oleśnica",
+            "time": "1h 31 min",
+            "distance": "7,2 km",
+            "coordinates": [
+                {
+                    "latitude": 51.209126149754304,
+                    "longitude":  17.376548726937678
+                },
+                {
+                    "latitude":  51.2074305187883, 
+                    "longitude": 17.371839326579842
+                },
+                {
+                    "latitude":  51.210957361080474, 
+                    "longitude": 17.372687379522198
+                },
+                {
+                    "latitude":  51.21699306059936, 
+                    "longitude": 17.38331510682001
+                },
+                {
+                    "latitude":  51.217332121368294, 
+                    "longitude": 17.387392978369654
+                },
+                {
+                    "latitude":  51.21636014047912, 
+                    "longitude": 17.39056866597889
+                },
+                {
+                    "latitude":  51.212856318157534, 
+                    "longitude": 17.39193998562783
+                },
+                {
+                    "latitude":  51.20935222916546, 
+                    "longitude": 17.393654135197615
+                },
+                {
+                    "latitude":  51.20590439755237, 
+                    "longitude": 17.38946800151824
+                },
+                {
+                    "latitude":  51.204140816672506, 
+                    "longitude": 17.379038754709022
+                },
+                {
+                    "latitude":  51.209069629710925, 
+                    "longitude": 17.380861166370934
+                },
+                {
+                    "latitude":  51.20971395391494, 
+                    "longitude": 17.379778545589627
+                },
+                {
+                    "latitude":  51.2097930808243, 
+                    "longitude": 17.378118527059318
+                }
+            ],
+            "url": "https://www.google.com/maps/dir/Zamek+Ksi%C4%85%C5%BC%C4%85t+Ole%C5%9Bnickich/51.207408,17.3718718/51.2109398,17.3727279/51.2169679,17.3833369/Stawy+Miejskie+w+Ole%C5%9Bnicy/51.2164286,17.3906091/51.2128262,17.3919136/Urz%C4%85d+Miasta+Ole%C5%9Bnicy/51.2097828,17.3780697/@51.2080253,17.3822413,15z/data=!4m51!4m50!1m5!1m1!1s0x470fe2e03c8ce7d3:0x633d06094cf83356!2m2!1d17.3765323!2d51.2091583!1m0!1m0!1m0!1m5!1m1!1s0x470fe379517c4887:0xb13e7a028732e9f4!2m2!1d17.3874119!2d51.2173316!1m0!1m20!3m4!1m2!1d17.3937111!2d51.2093275!3s0x470fe2c2c1bfa611:0x6a7989264529fc14!3m4!1m2!1d17.3894578!2d51.2058508!3s0x470fe2e62a9a4f2d:0xe58def1d369ba62d!3m4!1m2!1d17.379031!2d51.2041288!3s0x470fe2e3ef5dddc1:0xe0cdba9587c4fe44!3m4!1m2!1d17.3813958!2d51.211009!3s0x470fe2de36ba95d1:0x49bd9ce3d2970dbf!1m10!1m1!1s0x470fe2e07d3bbaa1:0xe339f93305949af8!2m2!1d17.3797711!2d51.2097342!3m4!1m2!1d17.3783161!2d51.2100366!3s0x470fe2e07365ea09:0xb57fa361217390c!1m0!3e2?entry=ttu",
+            "description": "Embark on a delightful tour around the city of Oleśnica, where captivating sights await you at every turn. Begin your journey with a stroll through the lush and picturesque park that graces the heart of the city. The park's verdant landscapes, vibrant flower beds, and tranquil ponds create an oasis of serenity, inviting you to relax and rejuvenate amidst nature's embrace.\nAs you venture beyond the park, the city streets unfold before you, lined with charming buildings and bustling activity. Immerse yourself in the lively atmosphere as you wander through the historic streets, each with its own unique character and architectural style. Admire the well-preserved facades, adorned with intricate details and colorful facades that reflect the city's rich heritage.\nThroughout your tour, you'll encounter various landmarks that bear witness to Oleśnica's past. Marvel at the impressive town hall, a symbol of civic pride, standing tall with its remarkable architecture. The clock tower proudly marks the passage of time, while the surrounding streets offer a vibrant blend of shops, cafes, and local boutiques, inviting you to indulge in a bit of exploration and perhaps discover a hidden gem or two.\nBeyond the bustling streets, the city reveals its hidden treasures, such as charming squares and hidden courtyards that invite you to pause and soak in the ambiance. Discover hidden gardens tucked away amidst the urban landscape, offering a serene retreat from the city's pulse.\nAs you continue your journey, the city's charm extends to its vibrant cultural scene. Visit the local museums and galleries that showcase the region's art, history, and traditions, providing a deeper understanding of Oleśnica's cultural heritage.\nWith its blend of natural beauty, architectural wonders, and vibrant city life, a tour of Oleśnica offers a captivating experience for all who visit. Explore the city's parks, stroll along its enchanting streets, and immerse yourself in its rich history and cultural tapestry."
+        }
+    ]
+}

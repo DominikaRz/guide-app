@@ -1,0 +1,165 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "reviews": [
+                {
+                    "id": 1,
+                    "nick": "Ann",
+                    "content": "Zamek zwiedza się samodzielnie z przewodnikiem audio, który bardzo szczegółowo opowiada o historii zamku i ich właścicielach.  Jeden z nich  Konrad VII Bialy brał udzial w bitwie pod Grunwaldem. Wnętrza zaskoczyły mnie przepięknymi sufitami, a także łazienką w szafie. Warto wdrapać sie na wieżę zamkową, skąd rozciąga się przepięknymi widok na Oleśnicę i okolice. W drodze można przystanąć i przyjrzeć sie działaniu mechanizmu zegarowego. Warto zwiedzić zamek, to nie będzie stracony czas",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "nick": "Marcin Wilk",
+                    "content": "Zdecydowanie warto odwiedzić i zagłębić się w historię tego miejsca. Jest to obowiązkowy punkt na mapie polskich zamków. Dobrze zachowany wewnątrz, z ciekawym dziedzińcem i możliwością wejścia na wieżę z widokiem na całą Oleśnicę. Będąc na miejscu warto przejść się na krótki spacer wokół książęcego stawu. Bilet normalny 25zł, audioprzewodnik 6zł. Dla gości dostępna jest kawiarenka z bardzo dobrym sernikiem :)",
+                    "stars": 5
+                },
+                {
+                    "id": 3,
+                    "nick": "Olga Z",
+                    "content": "Bardzo fajny zamek. Piękny widok z wieży. Jak ma się gotówkę, można wejść za 20 kupując cegiełkę na renowację a nie 25 zł i na tym się wchodzi zwiedzać. We wnętrzach niezbyt dużo ekspozycji, piękne sufity, każdy znajdzie coś interesującego dla siebie. Generalnie WARTO 😁👍🙋‍♀️",
+                    "stars": 3
+                },
+                {
+                    "id": 4,
+                    "nick": "Dorota Ożóg",
+                    "content": "Piękny zamek-zarówno na zewnątrz, jak i wewnątrz. \"Przewodnik\" opowiada do ucha historię zamku; widoki z wieży zapierają dech w piersiach... Cisza i spokój. Zwiedza się we własnym tempie. Miłośnicy zabytków znajdą tu z pewnością coś dla siebie🙂A po zwiedzaniu, w kawiarence można wypić pyszną kawę i zjeść równie pyszne ciasto😉🤗…",
+                    "stars": 5
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "reviews": [
+                {
+                    "id": 1,
+                    "nick": "Dostawca Pizzy",
+                    "content": "Czynna świątynia prawosławna. Wnętrze zadbane, ale zabytków tu nie ma. Kościół podniesiony z ruin po wojnie. Wnętrze uległo całkowitemu zniszczeniu.",
+                    "stars": 3
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "reviews": [
+                {
+                    "id": 1,
+                    "nick": "Maciej Sobczyk",
+                    "content": "Na miejscu okazało się, że wnętrza można zwiedzać (trzeba się umówić telefonicznie) po uiszczeniu opłaty. Jedno co można powiedzieć - warto! Miejsce pełne historii. Zajrzeliśmy do biblioteki łańcuchowej i krypt z barokowymi trumnami. Miejsce okazało się nawet ciekawsze od zamku.",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "nick": "Robert K",
+                    "content": "Bazylika - bardzo ładne wnętrze oraz każdy znajdzie swe ulubione miejsce aby skupiać się na modlitwie i nawiązać rozmowę z Bogiem. Aby poznać szczegóły można umówić się z przewodnikiem pod numerem 661 511 511. Dostałem informację że oprowadzanie jest od trzech osób w trwa ok. jednej godziny.",
+                    "stars": 5
+                    }
+            ]
+        },
+        {
+            "id": 7,
+            "reviews": [
+                {
+                "id": 1,
+                "nick": "JohnDoe88",
+                "content": "The Cerkiew Zaśnięcia NMP is a magnificent place of worship. The intricate architectural details and beautiful icons create a serene atmosphere.",
+                "stars": 4.5
+                },
+                {
+                "id": 2,
+                "nick": "TravelExplorer",
+                "content": "I was amazed by the stunning interior of the Cerkiew. The colorful frescoes and ornate decorations make it a truly remarkable place.",
+                "stars": 5
+                },
+                {
+                "id": 3,
+                "nick": "HistoryBuff23",
+                "content": "Visiting the Cerkiew Zaśnięcia NMP was like stepping back in time. The historical significance and cultural heritage of this place are truly impressive.",
+                "stars": 4
+                },
+                {
+                "id": 4,
+                "nick": "NatureLover",
+                "content": "The location of the Cerkiew is also remarkable, nestled amidst picturesque surroundings. It offers a peaceful retreat away from the bustling city.",
+                "stars": 4.5
+                },
+                {
+                "id": 5,
+                "nick": "ArtEnthusiast",
+                "content": "As an art lover, I was captivated by the exquisite craftsmanship displayed in the Cerkiew. It's a true masterpiece of religious art.",
+                "stars": 5
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "reviews": [
+                [
+                    {
+                      "id": 1,
+                      "nick": "SwimLover123",
+                      "content": "I absolutely love this swimming pool! The facilities are top-notch, and the staff is friendly and helpful. The variety of pools and slides is fantastic, and the sauna complex is a great addition. I highly recommend this place!",
+                      "stars": 4.5
+                    },
+                    {
+                      "id": 2,
+                      "nick": "FamilyFunTime",
+                      "content": "We had a wonderful time as a family at this swimming pool. The kids enjoyed the water slides and the wild river, while the adults relaxed in the sauna. The pool area is clean and well-maintained, and the lifeguards were attentive. We'll definitely be back!",
+                      "stars": 5
+                    },
+                    {
+                      "id": 3,
+                      "nick": "WaterBaby",
+                      "content": "This swimming pool is my happy place! I visit regularly for my swimming workouts, and the 25-meter sports pool is perfect for that. The water temperature is always comfortable, and the lanes are well-marked. The staff is professional and courteous. Great pool for serious swimmers!",
+                      "stars": 4.8
+                    },
+                    {
+                      "id": 4,
+                      "nick": "RelaxationSeeker",
+                      "content": "The sauna complex at this swimming pool is a slice of heaven! The Finnish saunas and steam sauna are wonderfully relaxing. The cold-water pool provides a refreshing contrast, and the loungers are perfect for unwinding. It's a great place to escape the stresses of everyday life.",
+                      "stars": 4.2
+                    },
+                    {
+                      "id": 5,
+                      "nick": "WaterSlideFanatic",
+                      "content": "If you love water slides, this swimming pool is a dream come true! The slides here are thrilling and varied, catering to both kids and adults. The wild river is an absolute blast. The only downside is that the lines can get long during peak hours, so plan accordingly.",
+                      "stars": 4.6
+                    },
+                    {
+                        "id": 6,
+                        "nick": "SwimEnthusiast",
+                        "content": "This swimming pool has exceeded my expectations! The water is clean and well-maintained, and the temperature is just right. The staff is knowledgeable and friendly, always ready to assist. The addition of water massage jets in the recreational pool is a nice touch. I give it a solid 5 stars!",
+                        "stars": 5
+                    },
+                    {
+                        "id": 7,
+                        "nick": "PoolPartyGuru",
+                        "content": "I hosted a pool party at this facility, and it was a huge success! The pool area is spacious and can accommodate a large group. The lifeguards ensured everyone's safety, and the slides and diving boards kept the guests entertained. The on-site snack bar was convenient. Thumbs up!",
+                        "stars": 4.7
+                    },
+                    {
+                        "id": 8,
+                        "nick": "SereneSwimmer",
+                        "content": "If you're looking for a peaceful swimming experience, this pool is perfect. The atmosphere is calm and serene, and the adults-only section provides a tranquil environment. The water is crystal clear, and the underwater lighting adds to the ambiance. I highly recommend it for relaxation.",
+                        "stars": 4.9
+                    },
+                    {
+                        "id": 9,
+                        "nick": "AquaticAdventurer",
+                        "content": "I love the variety of activities available at this swimming pool! From swimming and water slides to the wild river and jacuzzi, there's never a dull moment. The water temperature is consistent, and the cleanliness is commendable. A great place to unleash your inner water lover!",
+                        "stars": 4.5
+                    },
+                    {
+                        "id": 10,
+                        "nick": "FitnessSwimmer",
+                        "content": "This swimming pool caters to fitness enthusiasts like me. The lap lanes are spacious, and the water quality is excellent. The separate area for aqua fitness classes is a bonus. The changing rooms and showers are clean and well-maintained. A great place for a workout!",
+                        "stars": 4.8
+                    }
+                      
+                  ]
+                  
+            ]
+        }
+    ]
+}
